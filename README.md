@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawlo370
 - 👀 I’m interested in programming games
-- 🌱 I’m currently learning Python, C# and Angular
+- 🌱 I’m currently learning Python especialy ren'py
 - 💞️ I’m looking to collaborate on simple game mods and looking for a job
 - 📫 How to reach me at Pawlo370 on discord or come to Poland!
 - 😄 Pronouns: He/Him
